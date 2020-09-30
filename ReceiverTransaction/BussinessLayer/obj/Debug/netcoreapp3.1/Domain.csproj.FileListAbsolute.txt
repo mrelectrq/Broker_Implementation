@@ -1,0 +1,17 @@
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\BussinessLayer\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\BussinessLayer\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\BussinessLayer\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\BussinessLayer\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\BussinessLayer\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\BussinessLayer\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\BussinessLayer\obj\Debug\netcoreapp3.1\Domain.pdb

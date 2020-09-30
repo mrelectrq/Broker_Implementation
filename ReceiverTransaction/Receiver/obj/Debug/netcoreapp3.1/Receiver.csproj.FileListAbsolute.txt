@@ -1,0 +1,51 @@
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.csprojAssemblyReference.cache
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfoInputs.cache
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfo.cs
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CoreCompileInputs.cache
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.exe
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.deps.json
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.json
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.dev.json
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.dll
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.pdb
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CopyComplete
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.dll
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.pdb
+D:\Visual Projects\UTM\SI\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.genruntimeconfig.cache
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.csprojAssemblyReference.cache
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfoInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfo.cs
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CoreCompileInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.dll
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.pdb
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.exe
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.deps.json
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.json
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.dev.json
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.dll
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Receiver.pdb
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CopyComplete
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\obj\Debug\netcoreapp3.1\Receiver.genruntimeconfig.cache
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Visual Projects\UTM\PAD\Lab1\Receiver\Receiver\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\bin\Debug\netcoreapp3.1\Receiver.exe
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\bin\Debug\netcoreapp3.1\Receiver.deps.json
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.json
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\bin\Debug\netcoreapp3.1\Receiver.runtimeconfig.dev.json
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\bin\Debug\netcoreapp3.1\Receiver.dll
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\bin\Debug\netcoreapp3.1\Receiver.pdb
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\obj\Debug\netcoreapp3.1\Receiver.csprojAssemblyReference.cache
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfoInputs.cache
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\obj\Debug\netcoreapp3.1\Receiver.AssemblyInfo.cs
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CoreCompileInputs.cache
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\obj\Debug\netcoreapp3.1\Receiver.csproj.CopyComplete
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\obj\Debug\netcoreapp3.1\Receiver.dll
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\obj\Debug\netcoreapp3.1\Receiver.pdb
+D:\Univer\ANUL4\PAD\Receiver_Cristi\ReceiverTransaction\Receiver\obj\Debug\netcoreapp3.1\Receiver.genruntimeconfig.cache

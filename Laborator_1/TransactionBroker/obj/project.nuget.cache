@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HH9N4BYpFPYJ5svLpCYicEBvTqh1Rusm8iD5fr1XEpOPNSB0NGmaMZhJcZ0s8dpktEoQHbvf0UWBA4dA6qUOQw==",
+  "success": true,
+  "projectFilePath": "D:\\univer\\anul4\\pad\\laborator_1\\transactionbroker\\TransactionBroker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
